@@ -1,0 +1,1 @@
+Queries and stores WikiData derived metadata for the authors found in Ted Underwood's Word Frequencies in English-Language Literature, 1700-1922 dataset.
